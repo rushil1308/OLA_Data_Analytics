@@ -15,8 +15,4 @@ This project analyzes Ola ride data to identify trends in ride frequency, revenu
 2. Review SQL scripts and sample data provided.
 
 ## Dashboard Images
-![Overall](https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Screenshot%202025-07-20%20021958.png?raw=true)
-![Vehicle Type](https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Screenshot%202025-07-20%20021958.png?raw=true)
-![Revenue](https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Screenshot%202025-07-20%20021958.png?raw=true)
-![Cancellation](https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Screenshot%202025-07-20%20021958.png?raw=true)
-![Rating](https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Screenshot%202025-07-20%20021958.png?raw=true)
+![Overall]([https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Screenshot%202025-07-20%20021958.png?raw=true](https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Dashboard_OLA.png?raw=true))
