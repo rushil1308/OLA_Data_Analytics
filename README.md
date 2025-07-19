@@ -14,5 +14,9 @@ This project analyzes Ola ride data to identify trends in ride frequency, revenu
 1. Download the .pbix file and open it in Power BI Desktop.
 2. Review SQL scripts and sample data provided.
 
-
-![image alt](https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Screenshot%202025-07-20%20021958.png?raw=true)
+## Dashboard Images
+![Overall](https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Screenshot%202025-07-20%20021958.png?raw=true)
+![Vehicle Type](https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Screenshot%202025-07-20%20021958.png?raw=true)
+![Revenue](https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Screenshot%202025-07-20%20021958.png?raw=true)
+![Cancellation](https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Screenshot%202025-07-20%20021958.png?raw=true)
+![Rating](https://github.com/rushil1308/OLA_Data_Analytics/blob/main/Screenshot%202025-07-20%20021958.png?raw=true)
