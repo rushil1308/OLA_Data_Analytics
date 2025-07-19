@@ -13,3 +13,4 @@ This project analyzes Ola ride data to identify trends in ride frequency, revenu
 ## How to Use
 1. Download the .pbix file and open it in Power BI Desktop.
 2. Review SQL scripts and sample data provided.
+
